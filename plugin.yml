@@ -1,0 +1,15 @@
+name: HexArenas
+version: 1.0.0
+api: 3.0.0
+main: HexArenas\Main
+commands:
+ fist:
+  description: "join on the fist arena"
+ gapple:
+  description: "join on the gapple arena"
+ nodebuff:
+  description: "join on the nodebuff arena"
+ combo:
+  description: "join on the combo arena"
+ sumo:
+  description: "join on the sumo arena"

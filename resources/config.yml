@@ -1,0 +1,41 @@
+#=====================================#
+# You can edit arenas worlds, messages           #
+# and player command.                                         #
+# Credits: @hexyyy                                                 #
+# Website: laststyle.tk                                           #
+#=====================================#
+
+# Worlds #
+
+FistWorld: "Fist"
+GappleWorld: "Gapple"
+NodebuffWorld: "NoDebuff"
+ComboWorld: "Combo"
+SumoWorld: "Sumo"
+# You must write an existing world #
+
+
+# Messages #
+
+FistMsg: "Fist msg"
+GappleMsg: "Gapple msg"
+NodebuffMsg: "NoDebuff msg"
+ComboMsg: "Combo msg"
+SumoMsg: "Sumo msg"
+
+
+# Commands #
+FistCommand: "kit fist"
+GappleCommand: "kit gapple"
+NodebuffCommand: "kit nodebuff"
+ComboCommand: "kit combo"
+SumoCommand: "kit sumo"
+
+
+#################################
+# You don't want an arena? Use this settings.
+# Example:
+# FistWorld: "Hub"   # Use your hub world
+# FistMsg: "No arena set for fist."
+# FistCommand: "" # Use random cmd like hub
+#################################
